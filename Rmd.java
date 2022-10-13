@@ -3,7 +3,7 @@ package com.xworkz.travel.rain;
 public class Rmd {
 
 	public String brand = "Dhariwal";
-	public String ingredient = " areca nut with slaked lime,..";
+	public String ingredient = "areca nut with slaked lime,..";
 	public double price = 5;
 	public double weight = 10;
 	public int quantity = 2;
@@ -15,7 +15,10 @@ public class Rmd {
 	public int foundedYear;
 	public boolean goodForHealth;
 	public String brandAmbassador;   
-	public String factory;
+	public boolean factoryavailableinBangalore;
+	public String exportedBy;
+	
+	
 	
 	
 	

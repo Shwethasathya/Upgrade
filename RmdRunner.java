@@ -14,11 +14,19 @@ public class RmdRunner {
 		rmd.foundedYear = 1991;
 		rmd.goodForHealth = false;
 		rmd.brandAmbassador = "Moiz Miya";
+		rmd.exportedBy = "R M Dhariwal";
+		rmd.factoryavailableinBangalore = true;
+		
+		
 	
 		System.out.println(rmd.factoryLocation);
 		System.out.println(rmd.foundedYear);
 		System.out.println(rmd.goodForHealth);
 		System.out.println(rmd.brandAmbassador);
+		System.out.println(rmd.exportedBy);
+		System.out.println(rmd.factoryavailableinBangalore);
+		
+		
 		
 		System.out.println("________________////________________");
 		
